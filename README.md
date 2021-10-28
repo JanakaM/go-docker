@@ -8,5 +8,5 @@ Setting up Go get command for private repository Gitlab
 	insteadOf = https://gitlab.com/
 2. Add _netrc file to user profile folder
 3. Add following line to _netrc file
-machine gitlab.com login <username> password <access-key>   
+machine gitlab.com login [username] password [access-key]   
 
